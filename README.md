@@ -3,6 +3,8 @@ xc_nationals_predict
 
 Predicting results at the NCAA XC National Championships from data on tfrrs
 
+*Currently in development with Will Houser
+
 Project Organization
 ------------
 
